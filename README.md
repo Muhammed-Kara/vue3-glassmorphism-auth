@@ -74,8 +74,16 @@ npm run test:e2e -- --debug
 
 
 
-![Vue 3 Glassmorphism Auth](https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/raw/master/1.png)
+
 
 ```sh
 npm run lint
 ```
+
+
+
+![Vue 3 Glassmorphism Auth]([https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/raw/master/1.png](https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/blob/master/1.png))
+![Vue 3 Glassmorphism Auth]([https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/raw/master/1.png](https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/blob/master/2.png))
+![Vue 3 Glassmorphism Auth]([https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/raw/master/1.png](https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/blob/master/3.png))
+![Vue 3 Glassmorphism Auth]([https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/raw/master/1.png](https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/blob/master/4.png))
+
