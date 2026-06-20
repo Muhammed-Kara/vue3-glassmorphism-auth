@@ -1,3 +1,11 @@
+TR:Bu proje, standart ve sıkıcı giriş/kayıt formlarını eğlenceli bir deneyime dönüştürmeyi amaçlayan interaktif bir kullanıcı arayüzü şablonudur. Tamamen Vue 3 ve CSS animasyonları kullanılarak tasarlanan bu sayfalarda, kullanıcının hareketlerine anında tepki veren sıvı/jel (blob) formunda karakterler bulunur. Şifre yazarken gizlice bakan, boş alan bırakıldığında sinirlenen ve hatalı girişte üzülen bu karakterler, "glassmorphism" (cam) efektiyle modern bir görünüm sunar. Ayrıca entegre aydınlık/karanlık (light/dark) tema desteğine sahiptir.
+
+
+EN:This repository provides an interactive and fun authentication UI template that turns standard login/register forms into an engaging experience. Built with Vue 3 and pure CSS animations, it features fluid "blob" characters that react dynamically to user input. The characters peek when typing a password, get angry if required fields are left empty, and look sad on login errors. Combined with a modern glassmorphism aesthetic and a built-in light/dark theme toggle, this template offers a highly reactive and polished user experience.
+
+
+
+
 # auth_user_management
 
 This template should help get you started developing with Vue 3 in Vite.
