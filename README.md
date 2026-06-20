@@ -72,6 +72,10 @@ npm run test:e2e -- --debug
 
 ### Lint with [ESLint](https://eslint.org/)
 
+
+
+![Vue 3 Glassmorphism Auth](https://github.com/Muhammed-Kara/vue3-glassmorphism-auth/raw/master/1.png)
+
 ```sh
 npm run lint
 ```
